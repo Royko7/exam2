@@ -12,7 +12,7 @@ use Yii;
  */
 class Category extends \yii\db\ActiveRecord
 {
-    public $categories;
+    public $category;
     /**
      * {@inheritdoc}
      */
